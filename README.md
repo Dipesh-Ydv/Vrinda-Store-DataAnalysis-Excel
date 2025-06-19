@@ -69,7 +69,6 @@ The dataset contains the following fields:
   - Power Pivot
   - Pivot Tables & Charts
   - Slicers
-- **Power BI (Optional extension)** – You can also convert this to a Power BI dashboard.
 
 ---
 
