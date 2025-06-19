@@ -85,11 +85,11 @@ The dataset contains the following fields:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](Dashboard Screenshot.png)
+![Dashboard Screenshot](/Dashboard Screenshot.png)
 
 ## 📄 Sample Data Preview
 
-![Sample Data](Sample Dataset Screenshot.png)
+![Sample Data](/Sample Dataset Screenshot.png)
 
 ---
 
